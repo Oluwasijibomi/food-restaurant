@@ -7,6 +7,7 @@ class Home extends React.Component {
       <Jumbotron fluid>
         <Container>
           <h1>Fluid jumbotron</h1>
+          <h2>My Restaurant</h2>
           <p>
             This is a modified jumbotron that occupies the entire horizontal space of
             its parent.
